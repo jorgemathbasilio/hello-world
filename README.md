@@ -1,4 +1,4 @@
 # hello-world
-My first repository on GitHub
-Following this uber fun tutorial. 
+My first repository on GitHub </br>
+Following this uber fun tutorial. </br>
 Jorge is the best!
